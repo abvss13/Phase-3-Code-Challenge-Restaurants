@@ -7,5 +7,5 @@ class Restaurant:
     def name(self):
         return self.name
         
-restaurant1 = Restaurant("The Plaza Hotel")
+restaurant1 = Restaurant("The Cafe Java")
 print(restaurant1.name)
